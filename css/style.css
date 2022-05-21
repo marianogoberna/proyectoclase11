@@ -1,0 +1,19 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.carousel{
+    width: 70vh;
+}
+
+body{
+    background-color: black;
+}
+
+.rounded{
+    width: 70vh;
+}
